@@ -9,8 +9,8 @@
             <Impression>http://example.com/track/impression</Impression>
             <Creatives>
                 <Creative id="5480" sequence="1">
-                    <CompanionAds>
-                        <Companion id="1232" width="485" height="75" assetWidth="485" assetHeight="75">
+                    <CompanionAds required=”all”>
+                        <Companion id="1232" width="320" height="50">
                             <StaticResource creativeType="image/jpeg">
                                     <![CDATA[http://www.advertisingtwincities.com/images/ab-jb-tickets-320x50.jpg]]>
                             </StaticResource>
