@@ -12,7 +12,7 @@
                     <CompanionAds>
                         <Companion id="1232" width="485" height="75" assetWidth="485" assetHeight="75">
                             <StaticResource creativeType="image/jpeg">
-                                    <![CDATA[http://http://www.advertisingtwincities.com/images/ab-jb-tickets-320x50.jpg]]>
+                                    <![CDATA[http://www.advertisingtwincities.com/images/ab-jb-tickets-320x50.jpg]]>
                             </StaticResource>
                             <CompanionClickThrough>
                                 <![CDATA[https://iabtechlab.com]]>
